@@ -2,7 +2,7 @@
 <html lang="en">
 
 <body>
- <center> <h1>👗 FashionFit-AI: Virtual Try-On System</h1></center>
+ <center> <h1>👗 AI Virtual Try-On System</h1></center>
 
   <!-- Demo Images -->
 
